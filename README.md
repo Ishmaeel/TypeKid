@@ -1,4 +1,4 @@
 TypeKid
 =======
 
-Word Processing for tiny fingers
+Word processing for tiny fingers
